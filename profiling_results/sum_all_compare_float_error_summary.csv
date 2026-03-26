@@ -1,0 +1,11 @@
+algorithm,max_abs_error,n_at_max_abs_error,dataset_at_max_abs_error,max_rel_error,n_at_max_rel_error,dataset_at_max_rel_error
+naive,5999999.0000000000,6000000,large_small,0.9999996667,6000000,cancellation
+way2,2999999.0000000000,6000000,large_small,0.0283018776,6000000,large_small
+way4,1500000.0000000000,6000000,cancellation,0.5000000000,1000,cancellation
+way8,2250000.0000000000,6000000,cancellation,0.7506666667,1500,cancellation
+way16,2625000.0000000000,6000000,cancellation,0.8760000000,1000,cancellation
+recursive,3000000.0000000000,6000000,cancellation,1.0000000000,1000,cancellation
+iterative,3000000.0000000000,6000000,cancellation,1.0000000000,1000,cancellation
+divide,3000000.0000000000,6000000,cancellation,1.0000000000,1500,cancellation
+stdacc,5999999.0000000000,6000000,large_small,0.9999996667,6000000,cancellation
+kahan,2999999.0000000000,6000000,cancellation,0.9999996667,6000000,cancellation
